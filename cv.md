@@ -1,7 +1,7 @@
 # Anna Bahachenka
 
 ## Contacts
-* __Location__: Minsk, Belarus
+* __Location__: Gomel, Belarus
 * __Number__: +375 (29) 137-18-91
 * __Email__: yavianbo@gmail.com
 * __GitHub__: [Rannue](https://github.com/Rannue) 
