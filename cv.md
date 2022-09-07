@@ -8,7 +8,7 @@
 
 ## About
  I have experience in designing layouts and websites. While studying UX/UI design, I became interested in front-end web development. I hope to attain knowledge and develop skills within your course in order to achieve employment as a front-end developer :)
- 
+
 ## Skills
 * HTML / CSS (Basics)
 * JavaScript (Basics)
@@ -21,8 +21,33 @@
 * Adobe Illustrator
 
 ## Education
-* Environmental expert (Ecology) / _2017 - 2021,_
+* __Environmental expert (Ecology)__ / _2017 - 2021,_
     BSU, Faculty of Medical Ecology
-* UI/UX Designer / _2020 - 2021,_
+* __UI/UX Designer__ / _2020 - 2021,_
     Teach Me Skills  
-* Odin Project / _(In process)_   
+* __Odin Project__ / _(In process)_     
+
+## Code Example
+```
+function longest(s1, s2) {
+  let obj = {};
+  let str = '';
+  for (let i = 0; i < s1.length; i++) {
+    if (!obj[s1[i]]) {
+      str += s1[i];
+      obj[s1[i]] = 1;
+    }
+  }
+  for (let k = 0; k < s2.length; k++) {
+    if (!obj[s2[k]]) {
+      str += s2[k];
+      obj[s2[k]] = 1;
+    }
+  }
+  return str.split('').sort().join('')
+}
+```
+
+## Languages
+* __Russian:__ Native
+* __English:__ А2 - B1 (There was an experience of speaking practice at the II European Games)
